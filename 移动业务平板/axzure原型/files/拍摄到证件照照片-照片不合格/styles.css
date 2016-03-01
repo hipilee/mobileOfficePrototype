@@ -1,0 +1,143 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:840px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:630px;
+  height:480px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:630px;
+  height:480px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:232px;
+  width:626px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:350px;
+  top:340px;
+  width:220px;
+  height:90px;
+  font-size:28px;
+  color:#FF0000;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  height:90px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:216px;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:200px;
+  top:465px;
+  width:110px;
+  height:55px;
+}
+#u4_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:55px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u5 {
+  position:absolute;
+  left:330px;
+  top:465px;
+  width:110px;
+  height:55px;
+}
+#u5_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:55px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u6 {
+  position:absolute;
+  left:730px;
+  top:155px;
+  width:110px;
+  height:55px;
+}
+#u6_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:55px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u7 {
+  position:absolute;
+  left:730px;
+  top:348px;
+  width:110px;
+  height:55px;
+}
+#u7_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:55px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
