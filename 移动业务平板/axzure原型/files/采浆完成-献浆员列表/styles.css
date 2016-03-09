@@ -262,3 +262,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u19 {
+  position:absolute;
+  left:650px;
+  top:170px;
+  width:100px;
+  height:20px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:20px;
+}
+#u20 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:96px;
+  word-wrap:break-word;
+}
