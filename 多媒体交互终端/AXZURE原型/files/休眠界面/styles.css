@@ -374,3 +374,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u29 {
+  position:absolute;
+  left:280px;
+  top:509px;
+  width:200px;
+  height:100px;
+  text-align:left;
+}
+#u29_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:100px;
+}
+#u30 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:196px;
+  word-wrap:break-word;
+}

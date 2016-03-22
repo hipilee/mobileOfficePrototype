@@ -1,4 +1,4 @@
-﻿.ax_形状 {
+﻿.ax_shape {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -7,7 +7,7 @@
   text-align:center;
   line-height:normal;
 }
-.ax_文本段落 {
+.ax_paragraph {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -79,14 +79,14 @@
   text-align:center;
   line-height:normal;
 }
-.ax_文本链接 {
+.ax_text_link {
   color:#0000FF;
 }
-.ax_鼠标悬停文本链接时 {
+.ax_text_link_mouse_over {
 }
-.ax_鼠标按下文本链接时 {
+.ax_text_link_mouse_down {
 }
-.ax_文本框 {
+.ax_text_field {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -95,7 +95,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_多行文本框 {
+.ax_text_area {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -104,7 +104,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_下拉列表框 {
+.ax_droplist {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -113,7 +113,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_列表框 {
+.ax_list_box {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -122,7 +122,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_复选框 {
+.ax_checkbox {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -131,7 +131,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_单选按钮 {
+.ax_radio_button {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -140,7 +140,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_流程形状 {
+.ax_flow_shape {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -158,7 +158,7 @@
   text-align:left;
   line-height:normal;
 }
-.ax_提交按钮 {
+.ax_html_button {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -167,19 +167,19 @@
   text-align:center;
   line-height:normal;
 }
-.ax_热区 {
+.ax_hot_spot {
   font-size:13px;
   color:#333333;
   text-align:center;
   line-height:normal;
 }
-.ax_内联框架 {
+.ax_inline_frame {
   font-size:13px;
   color:#333333;
   text-align:center;
   line-height:normal;
 }
-.ax_动态面板 {
+.ax_dynamic_panel {
   font-size:13px;
   color:#333333;
   text-align:center;
@@ -191,7 +191,7 @@
   text-align:center;
   line-height:normal;
 }
-.ax_中继器 {
+.ax_repeater {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -200,7 +200,7 @@
   text-align:center;
   line-height:normal;
 }
-.ax_表格 {
+.ax_table {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -209,7 +209,7 @@
   text-align:center;
   line-height:normal;
 }
-.ax_单元格 {
+.ax_table_cell {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
@@ -218,19 +218,19 @@
   text-align:left;
   line-height:normal;
 }
-.ax_菜单 {
+.ax_menu {
   font-size:13px;
   color:#000000;
   text-align:center;
   line-height:normal;
 }
-.ax_水平线 {
+.ax_horizontal_line {
   font-size:13px;
   color:#333333;
   text-align:center;
   line-height:normal;
 }
-.ax_垂直线 {
+.ax_vertical_line {
   font-size:13px;
   color:#333333;
   text-align:center;
