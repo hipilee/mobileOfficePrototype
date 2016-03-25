@@ -157,9 +157,9 @@
 #u12 {
   position:absolute;
   left:280px;
-  top:140px;
+  top:161px;
   width:560px;
-  height:95px;
+  height:74px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
@@ -170,12 +170,12 @@
   left:0px;
   top:0px;
   width:560px;
-  height:95px;
+  height:74px;
 }
 #u13 {
   position:absolute;
   left:2px;
-  top:12px;
+  top:1px;
   width:556px;
   word-wrap:break-word;
 }

@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:840px;
+  width:1110px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -376,10 +376,15 @@
 }
 #u29 {
   position:absolute;
-  left:280px;
-  top:509px;
+  left:910px;
+  top:70px;
   width:200px;
-  height:100px;
+  height:390px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:20px;
+  color:#FF9900;
   text-align:left;
 }
 #u29_img {
@@ -387,7 +392,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:100px;
+  height:390px;
 }
 #u30 {
   position:absolute;
